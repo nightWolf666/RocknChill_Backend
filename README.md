@@ -1,2 +1,2 @@
 # RocknChill_Backend
-RocknChill_Backend
+Abschlussprojekt RocknChill_Backend
